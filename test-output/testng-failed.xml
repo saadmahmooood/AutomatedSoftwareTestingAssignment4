@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [MyTestSuite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="SpecificTests(failed)">
+    <classes>
+      <class name="tests.users_l1f21bsse0492">
+        <methods>
+          <include name="createUser"/>
+        </methods>
+      </class> <!-- tests.users_l1f21bsse0492 -->
+    </classes>
+  </test> <!-- SpecificTests(failed) -->
+</suite> <!-- Failed suite [MyTestSuite] -->

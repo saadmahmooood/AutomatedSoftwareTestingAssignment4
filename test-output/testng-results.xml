@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="16" passed="16" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-01-29T20:50:32 PKT" name="MyTestSuite" finished-at="2025-01-29T20:50:51 PKT" duration-ms="18406">
+    <groups>
+    </groups>
+    <test started-at="2025-01-29T20:50:32 PKT" name="SpecificTests" finished-at="2025-01-29T20:50:51 PKT" duration-ms="18406">
+      <class name="tests.comments_l1f21bsse0447">
+        <test-method signature="createComment()[pri:0, instance:tests.comments_l1f21bsse0447@5656be13]" started-at="2025-01-29T20:50:47 PKT" name="createComment" finished-at="2025-01-29T20:50:48 PKT" duration-ms="767" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createComment -->
+        <test-method signature="updateComment()[pri:0, instance:tests.comments_l1f21bsse0447@5656be13]" started-at="2025-01-29T20:50:48 PKT" name="updateComment" finished-at="2025-01-29T20:50:49 PKT" duration-ms="950" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updateComment -->
+      </class> <!-- tests.comments_l1f21bsse0447 -->
+      <class name="tests.comments_l1f21bsse0547">
+        <test-method signature="createComment()[pri:0, instance:tests.comments_l1f21bsse0547@76505305]" started-at="2025-01-29T20:50:49 PKT" name="createComment" finished-at="2025-01-29T20:50:50 PKT" duration-ms="908" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createComment -->
+        <test-method signature="updateComment()[pri:0, instance:tests.comments_l1f21bsse0547@76505305]" started-at="2025-01-29T20:50:50 PKT" name="updateComment" finished-at="2025-01-29T20:50:51 PKT" duration-ms="797" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updateComment -->
+      </class> <!-- tests.comments_l1f21bsse0547 -->
+      <class name="tests.posts_l1f21bsse0452">
+        <test-method signature="createNewPost()[pri:0, instance:tests.posts_l1f21bsse0452@692f203f]" started-at="2025-01-29T20:50:38 PKT" name="createNewPost" finished-at="2025-01-29T20:50:39 PKT" duration-ms="1188" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createNewPost -->
+        <test-method signature="updatePost()[pri:0, instance:tests.posts_l1f21bsse0452@692f203f]" started-at="2025-01-29T20:50:39 PKT" name="updatePost" finished-at="2025-01-29T20:50:40 PKT" duration-ms="1045" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updatePost -->
+      </class> <!-- tests.posts_l1f21bsse0452 -->
+      <class name="tests.todos_l1f21bsse0507">
+        <test-method signature="createNewTodo()[pri:0, instance:tests.todos_l1f21bsse0507@1aafa419]" started-at="2025-01-29T20:50:42 PKT" name="createNewTodo" finished-at="2025-01-29T20:50:42 PKT" duration-ms="743" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createNewTodo -->
+        <test-method signature="updateTodo()[pri:0, instance:tests.todos_l1f21bsse0507@1aafa419]" started-at="2025-01-29T20:50:42 PKT" name="updateTodo" finished-at="2025-01-29T20:50:44 PKT" duration-ms="1044" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updateTodo -->
+      </class> <!-- tests.todos_l1f21bsse0507 -->
+      <class name="tests.todos_l1f21bsse0493">
+        <test-method signature="createNewTodo()[pri:1, instance:tests.todos_l1f21bsse0493@7b2bbc3]" started-at="2025-01-29T20:50:40 PKT" name="createNewTodo" finished-at="2025-01-29T20:50:41 PKT" duration-ms="857" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createNewTodo -->
+        <test-method signature="updateTodo()[pri:2, instance:tests.todos_l1f21bsse0493@7b2bbc3]" started-at="2025-01-29T20:50:41 PKT" name="updateTodo" finished-at="2025-01-29T20:50:42 PKT" duration-ms="959" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updateTodo -->
+      </class> <!-- tests.todos_l1f21bsse0493 -->
+      <class name="tests.users_l1f21bsse0492">
+        <test-method signature="createUser()[pri:0, instance:tests.users_l1f21bsse0492@3270d194]" started-at="2025-01-29T20:50:45 PKT" name="createUser" finished-at="2025-01-29T20:50:46 PKT" duration-ms="793" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createUser -->
+        <test-method signature="updateUser()[pri:2, instance:tests.users_l1f21bsse0492@3270d194]" started-at="2025-01-29T20:50:46 PKT" name="updateUser" finished-at="2025-01-29T20:50:47 PKT" duration-ms="1061" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updateUser -->
+      </class> <!-- tests.users_l1f21bsse0492 -->
+      <class name="tests.users_l1f21bsse0395">
+        <test-method signature="createUser()[pri:0, instance:tests.users_l1f21bsse0395@55141def]" started-at="2025-01-29T20:50:44 PKT" name="createUser" finished-at="2025-01-29T20:50:45 PKT" duration-ms="991" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createUser -->
+        <test-method signature="updateUser()[pri:2, instance:tests.users_l1f21bsse0395@55141def]" started-at="2025-01-29T20:50:45 PKT" name="updateUser" finished-at="2025-01-29T20:50:45 PKT" duration-ms="892" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updateUser -->
+      </class> <!-- tests.users_l1f21bsse0395 -->
+      <class name="tests.posts_l1f21bsse0491">
+        <test-method signature="createNewPost()[pri:0, instance:tests.posts_l1f21bsse0491@3c19aaa5]" started-at="2025-01-29T20:50:32 PKT" name="createNewPost" finished-at="2025-01-29T20:50:37 PKT" duration-ms="4181" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createNewPost -->
+        <test-method signature="updatePost()[pri:0, instance:tests.posts_l1f21bsse0491@3c19aaa5]" started-at="2025-01-29T20:50:37 PKT" name="updatePost" finished-at="2025-01-29T20:50:38 PKT" duration-ms="1116" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updatePost -->
+      </class> <!-- tests.posts_l1f21bsse0491 -->
+    </test> <!-- SpecificTests -->
+  </suite> <!-- MyTestSuite -->
+</testng-results>

@@ -1,0 +1,69 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="MyTestSuite">
+
+    <test name="SpecificTests">
+        <classes>
+            <class name="tests.posts_l1f21bsse0491" >
+                <methods>
+                    <include name="createNewPost"/>
+                    <include name="updatePost"/>
+                </methods>
+            </class>
+            <class name="tests.posts_l1f21bsse0452" >
+                <methods>
+                    <include name="createNewPost"/>
+                    <include name="updatePost"/>
+                </methods>
+            </class>
+            <class name="tests.todos_l1f21bsse0493" >
+                <methods>
+<!--                    <include name="getTodo"/>-->
+                    <include name="createNewTodo"/>
+                    <include name="updateTodo"/>
+<!--                    <include name="deleteTodo"/>-->
+                </methods>
+            </class>
+            <class name="tests.todos_l1f21bsse0507" >
+                <methods>
+                    <include name="createNewTodo"/>
+                    <include name="updateTodo"/>
+                </methods>
+            </class>
+            <class name="tests.users_l1f21bsse0395" >
+                <methods>
+                    <include name="createUser"/>
+                    <include name="updateUser"/>
+<!--                    <include name="deleteUser"/>-->
+                </methods>
+            </class>
+            <class name="tests.users_l1f21bsse0492" >
+                <methods>
+                    <include name="createUser"/>
+                    <include name="updateUser"/>
+                </methods>
+            </class>
+            <class name="tests.comments_l1f21bsse0447" >
+                <methods>
+                    <include name="createComment"/>
+                    <include name="updateComment"/>
+                </methods>
+            </class>
+            <class name="tests.comments_l1f21bsse0547" >
+                <methods>
+                    <include name="createComment"/>
+                    <include name="updateComment"/>
+                </methods>
+            </class>
+            <class name="tests.L1F21BSSE0493" >
+                <methods>
+                    <include name="createNewUser"/>
+                    <include name="updateUser"/>
+                    <include name="deleteUser"/>  <!--  additional-->
+                </methods>
+            </class>
+        </classes>
+
+    </test>
+
+
+</suite>
